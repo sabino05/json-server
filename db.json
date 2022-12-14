@@ -1,0 +1,18 @@
+{
+    "filmes": [
+        {
+            "id": 1,
+            "titulo": "Em seu 4º ano na Escola de Magia e Bruxaria de Hogwarts",
+            "ano": 2005,
+            "roteiro": " J.K. Rowling, Steve Kloves",
+            "imagem": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/93/87/95/20282862.jpg"
+        },
+        {
+            "id": 2,
+            "titulo": "Pantera Negra: Wakanda Para Sempre é a continuação do longa Pantera Negra",
+            "ano": 2022,
+            "roteiro": "Stan Lee, Ryan Coogler",
+            "imagem": "https://br.web.img2.acsta.net/c_310_420/pictures/22/10/21/20/01/5778952.jpg"
+        }
+    ]
+}
