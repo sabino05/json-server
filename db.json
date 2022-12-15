@@ -1,18 +1,112 @@
 {
-    "filmes": [
+    "aventura": [
         {
             "id": 1,
-            "titulo": "Em seu 4º ano na Escola de Magia e Bruxaria de Hogwarts",
+            "titulo": ",HARRY POTTER E O CÁLICE DE FOGO",
             "ano": 2005,
             "roteiro": " J.K. Rowling, Steve Kloves",
             "imagem": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/93/87/95/20282862.jpg"
         },
         {
             "id": 2,
-            "titulo": "Pantera Negra: Wakanda Para Sempre é a continuação do longa Pantera Negra",
+            "titulo": ",Pantera Negra: Wakanda Para Sempre",
             "ano": 2022,
             "roteiro": "Stan Lee, Ryan Coogler",
             "imagem": "https://br.web.img2.acsta.net/c_310_420/pictures/22/10/21/20/01/5778952.jpg"
+        },{
+            "id": 3,
+            "titulo": "A Saga Crepúsculo: Eclipse",
+            "ano": 2010,
+            "roteiro": " David Slade",
+            "imagem": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/90/28/19962727.jpg"
+        },{
+            "id": 4,
+            "titulo": "Adão Negro",
+            "ano": 2022,
+            "roteiro": "Jaume Collet-Serra",
+            "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/22/10/18/22/38/0636138.jpg"
+        }
+    ], "comedia": [
+        {
+            "id": 1,
+            "titulo": "ESQUECERAM DE MIM",
+            "ano": 1990,
+            "roteiro": "John Hughes",
+            "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/93/95/20287484.jpg"
+        },
+        {
+            "id": 2,
+            "titulo": "O BALCONISTA 2",
+            "ano": 2022,
+            "roteiro": " Kevin Smith",
+            "imagem": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/92/90/96/20224641.jpg"
+        },{
+            "id": 3,
+            "titulo": "AS BRANQUELAS",
+            "ano": 2004,
+            "roteiro": " Keenen Ivory Wayans, Marlon Wayans",
+            "imagem": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/97/52/82/20534159.jpg"
+        },{
+            "id": 4,
+            "titulo": "VOVÓ... ZONA 3: TAL PAI, TAL FILHO",
+            "ano": 2021,
+            "roteiro": " Don Rhymer",
+            "imagem": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/91/74/19962875.jpg"
+        }
+    ], "terror": [
+        {
+            "id": 1,
+            "titulo": "PÂNICO NA FLORESTA",
+            "ano": 2004,
+            "roteiro": " Adam Cooper, Bill Collage",
+            "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/87/34/19962416.jpg"
+        },
+        {
+            "id": 2,
+            "titulo": "INVOCAÇÃO DO MAL",
+            "ano": 2013,
+            "roteiro": " Chad Hayes, Carey W. Hayes",
+            "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/210/166/21016629_2013062820083878.jpg"
+        },{
+            "id": 3,
+            "titulo": "A FREIRA",
+            "ano": 2018,
+            "roteiro": "James Wan, Gary Dauberman",
+            "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/18/07/18/21/53/1348208.jpg"
+        },{
+            "id": 4,
+            "titulo": "A MALDIÇÃO DA CHORONA",
+            "ano": 2019,
+            "roteiro": " Tobias Iaconis",
+            "imagem": "https://br.web.img2.acsta.net/c_310_420/pictures/19/02/21/21/08/0402784.jpg"
+        }
+    ],
+    "romance":[
+        {
+            "id": 1,
+            "titulo": "AFTER 4 – DEPOIS DA PROMESSA",
+            "ano": 2022,
+            "roteiro": " Anna Todd, Sharon Soboil",
+            "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/22/07/14/17/12/4706050.jpg"
+        },
+        {
+            "id": 2,
+            "titulo": "Continência ao Amor",
+            "ano": 2022,
+            "roteiro": " Sofia Carson, Liz W. Garcia",
+            "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/22/08/09/21/09/3949781.jpg"
+        },{
+            "id": 3,
+            "titulo": "Amor com Data Marcada",
+            "ano": 2022,
+            "roteiro": " Tiffany Paulsen",
+            "imagem": "https://br.web.img2.acsta.net/c_310_420/pictures/20/09/30/07/28/0926795.jpg"
+        },{
+            "id": 4,
+            "titulo": "A BARRACA DO BEIJO",
+            "ano": 2020,
+            "roteiro": " Vince Marcello",
+            "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/18/05/04/15/03/2133793.jpg"
         }
     ]
 }
